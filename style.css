@@ -1,0 +1,107 @@
+.intreduction{
+        background-color: antiquewhite;
+        text-align: center;
+}
+
+
+.intreduction{
+    background-color: antiquewhite;
+    text-align: center;
+
+}
+.intreduction ul{
+    display:inline-flex ;
+    list-style: none;
+    color: black;
+}
+.intreduction ul li{
+    width:12opx;
+    margin:20px;
+    padding:35px ;
+
+}
+
+
+      
+.intreduction ul li{
+    width:12opx;
+    margin:20px;
+    padding:35px ;
+
+}
+.fashion{
+    display: flex;
+    background-color:purple;
+    gap: 10%;
+    
+}
+
+.Discover{
+    border: 20%;
+    background-color:palevioletred ;
+    padding: 5%;
+    width: 30%;
+    border-radius: 15%;
+}
+@media only screen and (max-width: 1047px){
+
+.dresses{
+    display: grid;
+    padding-left: 40%;
+   
+
+}
+}
+.now{
+background-color: palevioletred;
+border-radius: 5%;
+}week{
+ text-align: center;
+}
+.ladies{
+    display: grid;
+     /* grid-template-columns: repeat(4,1fr); */  
+
+}
+.outfites{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);  
+}
+.view{
+padding-left: 45%;
+
+}
+.all{
+    background-color: palevioletred;
+    border-radius: 12%;
+}
+.workouts{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+
+}
+.shape{
+    width: 70%;
+}
+.label{
+    text-align: center;
+}
+
+.end{
+    display: flex;
+gap: 10%;
+}
+.subscribe{
+    padding: 18px;
+    background-color: palevioletred;
+    border-radius: 23%;
+   
+}
+.girls{
+    width: 150%;
+}
+.make{
+    color: white;
+    margin-top: 19%;
+    font-size: 1.5em;
+}
